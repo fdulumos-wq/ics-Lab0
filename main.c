@@ -2,5 +2,5 @@
 
 int main()
 {
-    printf("I have completed the first lab of ICS!\n");
+    printf("This comes from the FEATURE branch!\n");
 }
